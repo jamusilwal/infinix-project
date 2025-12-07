@@ -1,1 +1,1 @@
-preview link : infinix-project.vercel.app
+preview link : https://infinix-project.vercel.app
